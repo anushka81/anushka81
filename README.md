@@ -13,7 +13,7 @@
 - 😄 Pronouns: **She/her** 
  
 ###  Connect with me :
-<a href="https://www.linkedin.com/in/anushka-girdhar-815217229//"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://www.instagram.com/https://www.instagram.com/anushka_8104//"><img src='https://user-images.githubusercontent.com/97343839/210264169-35426e22-92c9-4069-a993-70433e7c401b.png' alt='instagram' height='40'></a><a href="https://twitter.com/https://twitter.com/anushkagirdhar8"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>  
+<a href="https://www.linkedin.com/in/anushka-girdhar-815217229//"><img src='https://user-images.githubusercontent.com/97343839/210264509-faf4cb68-f9b0-4a7c-8430-b9dd81f1c8b1.png' alt='linkedin' height='40' margin-right='30'></a>   <a href="https://www.instagram.com/anushka_8104/"><img src='https://user-images.githubusercontent.com/97343839/210264169-35426e22-92c9-4069-a993-70433e7c401b.png' alt='instagram' height='40'></a><a href="https://twitter.com/anushkagirdhar8"><img src='https://user-images.githubusercontent.com/97343839/210264432-687179b1-9f3a-41ce-9046-e1768a07929e.png' alt='twitter' height='40'>  
 
 ###  Languages and Tools :
 <div>
