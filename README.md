@@ -1,7 +1,7 @@
 <h1 align= "center"> Hi there 👋, I am Anushka</h1>
 <h2 align = "center">Final Year B.Tech CSE student at IGDTUW, Delhi</h2>
 <div align="middle">
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
+<img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" height='200'>
 </div>
 
 - 🌱 I’m currently learning **Full stack Web Development, DSA, Machine Learning** 
