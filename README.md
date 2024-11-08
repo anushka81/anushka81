@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Development, DSA, Machine Learning** 
 
-- 💬 Ask me about **Java, Python, MERN**
+- 💬 Ask me about **Java, Python, C#, MERN, Azure**
  
 - 📫 How to reach me: *anniegirdhar08@gmail.com* 
 
