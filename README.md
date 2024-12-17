@@ -4,7 +4,7 @@
 <h2 align="center">Final Year B.Tech CSE Student at IGDTUW, Delhi 🚀</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="200" alt="Welcome">
+  <img src="https://github.com/user-attachments/assets/0fd62ecd-b3aa-4490-ba56-fe51ca0db152" height="200" alt="Welcome">
 </div>
 
 ---
