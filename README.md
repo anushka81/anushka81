@@ -4,11 +4,10 @@
 <h2 align="center">Final Year B.Tech CSE Student at IGDTUW, Delhi 🚀</h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0fd62ecd-b3aa-4490-ba56-fe51ca0db152" height="200" alt="Welcome">
+  <img src="https://github.com/user-attachments/assets/c8af72cf-ee50-420b-9181-a6d326842050" height="200" alt="Motivational Gif">
 </div>
 
 ---
-
 ### 🙋‍♀️ About Me  
 - 🌱 Currently exploring **Full Stack Web Development**, **DSA**, and **Machine Learning**.  
 - 💬 Happy to help with **Java, Python, C#, MERN Stack, Azure**.  
