@@ -1,5 +1,3 @@
-Here's an enhanced version of your GitHub README profile with added structure, styling, and personality:  
-
 ---
 
 <h1 align="center">👋 Hi there, I'm Anushka!</h1>
