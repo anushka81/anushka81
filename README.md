@@ -50,10 +50,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushka81&show_icons=true&theme=radical" alt="Anushka's GitHub Stats" width="500">  
   <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka81&theme=radical" alt="GitHub Streak" width="500">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka81&theme=radical" alt="GitHub Contributions" width="500">
   <br>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka81&layout=compact&theme=radical" alt="Top Languages" width="400">
 </div>  
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Girdhar&show_icons=true&theme=radical" alt="Anushka's GitHub Stats" width="500">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushka-Girdhar&theme=radical" alt="GitHub Contributions" width="500">
+</div>
 
 ---
 
