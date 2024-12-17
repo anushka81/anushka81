@@ -61,7 +61,7 @@
 ### 🌟 "The only way to do great work is to love what you do."  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<anushka81>/<repo-name>/main/<gif-name>.gif" height="200" alt="Motivational Gif">
+  <img src="https://github.com/user-attachments/assets/4aee3075-1249-4310-ab94-c4da27f35d47" height="200" alt="Motivational Gif">
 </div>  
 
 --- 
