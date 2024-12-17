@@ -21,7 +21,7 @@
 ### 🌐 Let's Connect:  
 <div align="center">
   <a href="https://www.linkedin.com/in/anushka-girdhar-815217229/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"></a>
-  <a href="https://www.instagram.com/anushka_8104/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40"></a>
+<!--   <a href="https://www.instagram.com/anushka_8104/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40"></a> -->
   <a href="https://twitter.com/anushkagirdhar8"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" height="40"></a>
 </div>  
 
@@ -54,12 +54,6 @@
   <br>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka81&layout=compact&theme=radical" alt="Top Languages" width="400">
 </div>  
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushka-Girdhar&show_icons=true&theme=radical" alt="Anushka's GitHub Stats" width="500">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushka-Girdhar&theme=radical" alt="GitHub Contributions" width="500">
-</div>
 
 ---
 
@@ -67,7 +61,7 @@
 ### 🌟 "The only way to do great work is to love what you do."  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224395-3c7a3b9b-324a-4c9b-9b41-b0c7d41900c3.gif" height="200" alt="Motivational Gif">
+  <img src="https://raw.githubusercontent.com/<anushka81>/<repo-name>/main/<gif-name>.gif" height="200" alt="Motivational Gif">
 </div>  
 
 --- 
