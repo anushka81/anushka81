@@ -1,7 +1,12 @@
 ---
 
-<h1 align="center">👋 Hi there, I'm Anushka!</h1>
-<h2 align="center">Final Year B.Tech CSE Student at IGDTUW, Delhi 🚀</h2>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FFD700&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Anushka✨;Glad+to+see+you+here!" alt="Title"></img>
+</div>
+
+<br/>
+
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c8af72cf-ee50-420b-9181-a6d326842050" height="200" alt="Motivational Gif">
